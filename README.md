@@ -1,4 +1,4 @@
-# RestClientTemplate
+# Twitter Client
 
 Project 2 - Grid Image Search
 
